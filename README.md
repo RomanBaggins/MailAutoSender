@@ -8,6 +8,8 @@
 2. Скачать [chromedriver](https://chromedriver.chromium.org/) (можно поместить в папку MailAutoSender)
 3. Готово! Можно запускать.
 
+![til](https://github.com/RomanBaggins/MailAutoSender/blob/master/example.gif)
+
 :rocket: Запуск
 -------------------------
 Перед началом рабоыт прописать креды отправителя и получателя сообщений в credential.py
