@@ -5,7 +5,7 @@
 Понадобятся Python 3.7, pip и аккаунт на Яндекс.Почте. Рекомендуется все делать в отдельном venv'е.
 1. Установить зависимости
 `pip install -r ./requirements.txt`
-2. Скачать [chromedriver](https://chromedriver.chromium.org/) (можно поместить в папку Yandex_mail_auto_sender)
+2. Скачать [chromedriver](https://chromedriver.chromium.org/) (можно поместить в папку MailAutoSender)
 3. Готово! Можно запускать.
 
 :rocket: Запуск
